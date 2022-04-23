@@ -1,7 +1,7 @@
 
  
   <div align="left">
-  <h4>Muito prazer! sou o João Henrique, sou apaixonado por Desenvolvimento Web 👩‍💻</h4>
+  <h3>Muito prazer! sou o João Henrique, sou apaixonado por Desenvolvimento Web 👩‍💻</h3>
   <h5>Atualmente sou desenvolvedor Full Stack, principalmente React + NodeJs 🚀 </h5>
   <a href="https://github.com/Flami22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flami22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
